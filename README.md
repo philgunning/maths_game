@@ -1,7 +1,7 @@
 # Maths Game
 A simple command line maths game with procedurally increasing difficulty.
 
-##Usage
+## Usage
 
 Simple interactive text game, ran as executable file. 
 
